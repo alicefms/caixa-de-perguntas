@@ -25,6 +25,7 @@ html{
     font-size: 62.5%; /*para passar de px pra rem, divide por 10 */
 }
 body{
+    display: flex;
     height: 100vh; /*sem rolagem na altura*/
     background: var(--background);
 } 
