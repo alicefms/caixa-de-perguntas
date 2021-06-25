@@ -1,0 +1,20 @@
+{
+  "name": "discover-NLW6",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anônimas. (NLW-Discovery)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicefms/caixa-de-perguntas.git"
+  },
+  "keywords": [],
+  "author": "Alice Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicefms/caixa-de-perguntas/issues"
+  },
+  "homepage": "https://github.com/alicefms/caixa-de-perguntas#readme"
+}
