@@ -4,7 +4,7 @@
   "description": "Projeto desenvolvido para gerenciar perguntas anônimas. (NLW-Discovery)",
   "main": "index.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/alicefms/caixa-de-perguntas/issues"
   },
-  "homepage": "https://github.com/alicefms/caixa-de-perguntas#readme"
+  "homepage": "https://github.com/alicefms/caixa-de-perguntas#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
