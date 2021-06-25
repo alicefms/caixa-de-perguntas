@@ -2,9 +2,9 @@
   "name": "discover-NLW6",
   "version": "1.0.0",
   "description": "Projeto desenvolvido para gerenciar perguntas anônimas. (NLW-Discovery)",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "nodemon ."
   },
   "repository": {
     "type": "git",
